@@ -29,10 +29,6 @@ Telco Customer Churn Dataset
 * Business Insight Generation
 * Interactive Filtering
 
-## 📸 Dashboard Preview
-
-(Add dashboard screenshot here)
-
 ## 👨‍💻 Author
 
 B.Tech CSE Student | Aspiring Data Analyst
